@@ -1,6 +1,6 @@
 import 'package:ecom/global_variables.dart';
-import 'package:ecom/product_details.dart';
-import 'package:ecom/products_card.dart';
+import 'package:ecom/products/product_details.dart';
+import 'package:ecom/products/products_card.dart';
 import 'package:flutter/material.dart';
 
 class ProductList extends StatefulWidget {

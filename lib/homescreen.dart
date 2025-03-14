@@ -1,5 +1,5 @@
-import 'package:ecom/cart_page.dart';
-import 'package:ecom/product_list.dart';
+import 'package:ecom/cart/cart_page.dart';
+import 'package:ecom/products/product_list.dart';
 import 'package:ecom/profile.dart';
 import 'package:flutter/material.dart';
 
